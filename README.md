@@ -12,7 +12,7 @@ I am a second-year undergraduate Computer Science student seeking for personal g
 
 <!-- ![LinkedIn_icon svg](https://user-images.githubusercontent.com/88390970/138225060-32188a89-5df4-4160-8bd4-bb034a9cf4dc.png) -->
 <!-- ![facebook icon](https://user-images.githubusercontent.com/88390970/138225202-a521159c-70e4-4850-bdbb-15498cb51b57.png) -->
-[facebook]: https://www.facebook.com/bassant.mekkawy/
+[facebook]: https://www.facebook.com/profile.php?id=100070085600127
 [linkedin]: www.linkedin.com/in/bassant-hossam-827500170
 
 
