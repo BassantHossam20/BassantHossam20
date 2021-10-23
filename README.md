@@ -1,5 +1,5 @@
 ## Hey! there,  I'm Eng.Bassant Hossam 👋 :
-I am a second-year undergraduate Computer Science student seeking for personal growth in programming field. I am passionate about the Computer Science, Public Speaking, Creative Writing and Training Delivery.
+I am a second-year undergraduate Computer Science student seeking for personal growth in programming field, and passionate about the Computer Science, Public Speaking, Creative Writing and Training Delivery.
 
 <br>
 
