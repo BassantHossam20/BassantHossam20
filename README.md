@@ -23,7 +23,7 @@ I am a second-year undergraduate Computer Science student seeking for personal g
   https://www.hackerrank.com/bassant_hossam20
 </details> -->
 <details>
- <br>
+ <br><br><br>
  <summary>:zap: CodeForces Profile</summary>
   https://codeforces.com/profile/Bassant_Hossam
 </details>
