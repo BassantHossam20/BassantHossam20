@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hey! there,  I'm Eng.Bassant Hossam 👋 :
+I am a second-year undergraduate Computer Science student seeking for personal growth in programming field. I am passionate about the Computer Science, Public Speaking, Creative Writing and Training Delivery.
 
-<!--
-**BassantHossam20/BassantHossam20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+#### Connect with me :
+[<img align="left" alt="BassantHossam|Linkedin" width="22px" src="https://user-images.githubusercontent.com/88390970/138225060-32188a89-5df4-4160-8bd4-bb034a9cf4dc.png" />][linkedin]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="BassantHossam|Facebook" width="22px" src="https://user-images.githubusercontent.com/88390970/138225202-a521159c-70e4-4850-bdbb-15498cb51b57.png" />][facebook]
+
+
+
+<!-- ![LinkedIn_icon svg](https://user-images.githubusercontent.com/88390970/138225060-32188a89-5df4-4160-8bd4-bb034a9cf4dc.png) -->
+<!-- ![facebook icon](https://user-images.githubusercontent.com/88390970/138225202-a521159c-70e4-4850-bdbb-15498cb51b57.png) -->
+[facebook]: https://www.facebook.com/bassant.mekkawy/
+[linkedin]: www.linkedin.com/in/bassant-hossam-827500170
+
+
+<br><br>
+
+<!-- <details>
+ <summary>:zap: HackerRank Profile</summary>
+  https://www.hackerrank.com/bassant_hossam20
+</details> -->
+<details>
+ <summary>:zap: CodeForces Profile</summary>
+  https://codeforces.com/profile/Bassant_Hossam
+</details>
+
+![BasssantHossam20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassantHossam20&hide=[%22issues%22]&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasssantHossam20&layout=compact&theme=radical)
