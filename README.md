@@ -23,10 +23,11 @@ I am a second-year undergraduate Computer Science student seeking for personal g
   https://www.hackerrank.com/bassant_hossam20
 </details> -->
 <details>
- <br><br><br>
  <summary>:zap: CodeForces Profile</summary>
   https://codeforces.com/profile/Bassant_Hossam
 </details>
 
+ <br><br><br>
+ 
 ![BasssantHossam20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassantHossam20&hide=[%22issues%22]&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassantHossam20&layout=compact&theme=radical)
