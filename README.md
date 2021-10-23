@@ -28,4 +28,4 @@ I am a second-year undergraduate Computer Science student seeking for personal g
 </details>
 
 ![BasssantHossam20's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BassantHossam20&hide=[%22issues%22]&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BasssantHossam20&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BassantHossam20&layout=compact&theme=radical)
