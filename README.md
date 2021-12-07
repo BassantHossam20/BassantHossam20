@@ -1,5 +1,9 @@
 ## Hey! there,  I'm Eng.Bassant Hossam 👋 :
-I am a second-year undergraduate Computer Science student seeking for personal growth in programming field, and passionate about the Computer Science, Public Speaking, Creative Writing and Training Delivery.
+A second-year undergraduate Computer Science student seeks for personal growth in programming field, with current skills in Software Testing and also in Software Development using C++, and Java Programming Language, Also I'm skilled in development using Object Oriented Programming concepts, and SQL.
+
+I'm the founder of Bella Courses Academy, which has started at July 2021. Bella Courses was created to help learners in enhancing their skills using active learning strategies.
+
+In conclusion, I am passionate about the Computer Science, Trainings Creations and Delivery, Public Speaking, and Creative Writing.
 
 <br>
 
