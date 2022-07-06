@@ -6,10 +6,9 @@ I'm the founder of Bella Courses Academy, which has started at July 2021. Bella 
 In conclusion, I'm passionate about the Computer Science, Trainings Creations and Delivery, Public Speaking, and Creative Writing.
 <br>
 
-#### Connect with me :
-[<img align="left" alt="BassantHossam|Linkedin" width="22px" src="https://www.linkedin.com/in/bassant-mekkawy/" />][linkedin]
-
-[<img align="left" alt="BassantHossam|Facebook" width="22px" src="https://user-images.githubusercontent.com/88390970/138225202-a521159c-70e4-4850-bdbb-15498cb51b57.png" />][facebook]
+#### Connect with me through:
+Facebook: https://www.facebook.com/profile.php?id=100070085600127
+LinkedIn: https://www.linkedin.com/in/bassant-mekkawy/
 
 
 
