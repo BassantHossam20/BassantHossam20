@@ -6,7 +6,7 @@
 #### Connect with me 📫 :
 [<img align="left" alt="BassantHossamMekkawy|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="BassantMekkawy|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-<a href="mailto:bassant.hossam20@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" width="100px"/></a>
+<a href="mailto:bassant.hossam20@gmail.com"><img src="https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png" width="100px"/></a>
 [<img align="left" alt="BassantHossam|CodeForces" width="36px" src="https://user-images.githubusercontent.com/84079097/180464218-03e77461-6b24-48af-8649-468eecffa50a.jpg" />][CodeForces]
 
 [facebook]: https://www.facebook.com/profile.php?id=100070085600127
@@ -33,6 +33,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
 <img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
 <img align="left" alt="QT frameWork" width="26px" src="https://user-images.githubusercontent.com/88390970/177617917-b216f1de-ab3e-4c17-a64d-228d1471569f.svg" />
+<img align="left" alt="Code::Blocks" width="26px" src="https://user-images.githubusercontent.com/84079097/180467048-297c237c-baa9-4668-a49a-b80cc60636e2.png" />
 
 <br>
 
@@ -49,6 +50,7 @@
 <!-- ![flutter-logo](https://user-images.githubusercontent.com/88390970/177617906-4203077c-92d9-4ddd-9557-6339922614e6.svg) -->
 <!-- ![c-1](https://user-images.githubusercontent.com/88390970/177618779-5a8fd995-9ba8-40f1-a992-11f48ad0418f.svg) -->
 <!-- ![CodeForces](https://user-images.githubusercontent.com/84079097/180464218-03e77461-6b24-48af-8649-468eecffa50a.jpg) -->
- 
- <br><br>
+<!-- ![Gmail](https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png) -->
+<!-- ![codeblocks](https://user-images.githubusercontent.com/84079097/180467048-297c237c-baa9-4668-a49a-b80cc60636e2.png) -->
 
+ <br><br>
