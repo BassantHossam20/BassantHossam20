@@ -6,7 +6,7 @@
 #### Connect with me 📫 :
 [<img align="left" alt="BassantHossamMekkawy|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="BassantMekkawy|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
-<a href="mailto:bassant.hossam20@gmail.com"><img src="https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png" width="100px"/></a>
+<a href="mailto:bassant.hossam20@gmail.com"><img src="https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png" width="50px"/></a>
 [<img align="left" alt="BassantHossam|CodeForces" width="36px" src="https://user-images.githubusercontent.com/84079097/180464218-03e77461-6b24-48af-8649-468eecffa50a.jpg" />][CodeForces]
 
 [facebook]: https://www.facebook.com/profile.php?id=100070085600127
