@@ -3,8 +3,6 @@
 - I have current expertise in software development.
 - I'm the founder of Limitless Hub, which has started at July 2021. This hub was created to help learners in enhancing their soft skills. 
 
-<br>
-
 #### Connect with me 📫 :
 [<img align="left" alt="BassantHossamMekkawy|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="BassantMekkawy|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
@@ -13,7 +11,7 @@
 [facebook]: https://www.facebook.com/profile.php?id=100070085600127
 [linkedin]: https://www.linkedin.com/in/bassant-mekkawy/
 
-<br><br>
+<br>
 
 <!-- <details>
  <summary>:zap: HackerRank Profile</summary>
