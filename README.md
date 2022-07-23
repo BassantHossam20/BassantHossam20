@@ -12,7 +12,6 @@
 [facebook]: https://www.facebook.com/profile.php?id=100070085600127
 [linkedin]: https://www.linkedin.com/in/bassant-mekkawy/
 [CodeForces]: https://codeforces.com/profile/Bassant_Hossam
-<br>
  
 ### Languages  🧑‍💻:
 
