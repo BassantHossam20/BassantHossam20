@@ -27,9 +27,9 @@
  <br>
  
 ### Tools ⚙️ :
-<img align="left" alt="Cloin" width="26px" src="https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png" />
+<!-- <img align="left" alt="Cloin" width="26px" src="https://user-images.githubusercontent.com/88390970/138610801-db906560-3de2-4ede-8c59-376b807a262e.png" />
 <img align="left" alt="Eclipse" width="26px" src="https://i.ibb.co/n8nNPrT/eclipse.png" />
-<img align="left" alt="PyCharm" width="36px" src="https://i.ibb.co/yhpncpG/index.jpg" />
+<img align="left" alt="PyCharm" width="36px" src="https://i.ibb.co/yhpncpG/index.jpg" /> -->
 <img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/88390970/138610625-c3198646-292c-46ed-b515-bc55fbdbe7ec.jpg" />
 <img align="left" alt="Kali linux" width="26px" src="https://user-images.githubusercontent.com/88390970/138610513-64b714df-b454-4c39-8e66-0c728259d1d3.jpg" />
 <img align="left" alt="QT frameWork" width="26px" src="https://user-images.githubusercontent.com/88390970/177617917-b216f1de-ab3e-4c17-a64d-228d1471569f.svg" />
