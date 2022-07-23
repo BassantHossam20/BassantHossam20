@@ -1,7 +1,7 @@
 ## Hi there,  I'm Bassant Hossam 👋
 - A third-year undergraduate Computer Science student at Ain Shams University.
 - I have current expertise in software development.
-- I'm the founder of Limitless Hub, which has started at July 2021. This hub was created to help learners in enhancing their soft skills. 
+- I'm the founder of Limitless Hub which was created to help learners in enhancing their soft skills. 
 
 #### Connect with me 📫 :
 <a href="mailto:bassant.hossam20@gmail.com"><img src="https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png" width="36px"/></a>
