@@ -6,13 +6,13 @@
 #### Connect with me 📫 :
 <a href="mailto:bassant.hossam20@gmail.com"><img src="https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png" width="36px"/></a>
 [<img align="left" alt="BassantHossamMekkawy|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="BassantMekkawy|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />][facebook]
+//[<img align="left" alt="BassantMekkawy|Facebook" width="36px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" ///>][facebook]
 [<img align="left" alt="BassantHossam|CodeForces" width="36px" src="https://user-images.githubusercontent.com/84079097/180464218-03e77461-6b24-48af-8649-468eecffa50a.jpg" />][CodeForces]
 
-[facebook]: https://www.facebook.com/profile.php?id=100070085600127
+//[facebook]: https://www.facebook.com/profile.php?id=100070085600127
 [linkedin]: https://www.linkedin.com/in/bassant-mekkawy/
 [CodeForces]: https://codeforces.com/profile/Bassant_Hossam
- 
+ /*
 #### Languages  🧑‍💻:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
@@ -46,6 +46,8 @@
 <!-- ![qt-1](https://user-images.githubusercontent.com/88390970/177617917-b216f1de-ab3e-4c17-a64d-228d1471569f.svg) -->
 <!-- ![android-4](https://user-images.githubusercontent.com/88390970/177617885-df1142a9-b7cf-473f-9941-13c08b30098a.svg) -->
 <!-- ![dart](https://user-images.githubusercontent.com/88390970/177617899-5b536146-c5a2-4482-82e6-167fde6b452e.svg) -->
+
+*/
 <!-- ![flutter-logo](https://user-images.githubusercontent.com/88390970/177617906-4203077c-92d9-4ddd-9557-6339922614e6.svg) -->
 <!-- ![c-1](https://user-images.githubusercontent.com/88390970/177618779-5a8fd995-9ba8-40f1-a992-11f48ad0418f.svg) -->
 <!-- ![CodeForces](https://user-images.githubusercontent.com/84079097/180464218-03e77461-6b24-48af-8649-468eecffa50a.jpg) -->
