@@ -5,7 +5,7 @@
 
 #### Connect with me 📫 :
 <a href="mailto:bassant.hossam20@gmail.com"><img src="https://user-images.githubusercontent.com/84079097/180465824-3a948c2c-8b5d-457a-a74b-0f2d17f2308b.png" width="36px"/></a>
-[<img align="left" alt="BassantHossamMekkawy|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="BassantHossamMekkawy|Linkedin" width="36px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
 [linkedin]: https://www.linkedin.com/in/bassant-mekkawy/
 [CodeForces]: https://codeforces.com/profile/Bassant_Hossam
 
